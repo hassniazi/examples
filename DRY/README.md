@@ -1,6 +1,6 @@
-# Project Title
+# DRYing your code
 
-DRYing your code example
+This is an example of the DRYing of some python we had to do as part of the "This is probably only funny to geeks post"
 
 ## Getting Started
 
