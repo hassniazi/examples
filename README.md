@@ -1,4 +1,4 @@
-# DRYing code - example
+# A collection of examples, hints and tips as discussed from the links below
 
 Example projects from https://hassniazi.com/
 
