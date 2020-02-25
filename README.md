@@ -1,4 +1,4 @@
-# Project Title
+# DRYing code - example
 
 Example projects from https://hassniazi.com/
 
@@ -8,7 +8,7 @@ This repo will contain a number of files as part of our examples section from ha
 
 ### Prerequisites
 
-Any IDE of your choice
+Any IDE of your choice  
 
 ```
 Visual Studio code
